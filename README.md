@@ -6,5 +6,5 @@ This project focuses on predicting property prices in California using simple an
 2.  Customer Churn Prediction
 This project addresses customer churn by building a classification model to predict which customers are at high risk of leaving. The model uses demographic and service data to provide insights for proactive retention strategies.
 
-3. ❤ Early Disease Detection
+3.  Early Disease Detection
 This project uses patient health and demographic data to build a classification model for the early detection of heart disease. It involves extensive data preprocessing and a comparison of several models to find the most accurate one.
